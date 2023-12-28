@@ -25,14 +25,9 @@
   "version": "1.0.0",
   "DEL_FUNCTION": true,
   "ADD_FUNCTION": true,
-  "FCAOption": {
-    "listenEvents": true,
-    "listenTyping": false,
-    "updatePresence": false,
-    "autoReconnect": true,
-    "logRecordSize": 100,
-    "emitReady": false,
+"FCAOption": {
     "forceLogin": true,
+    "listenEvents": true,
     "autoMarkDelivery": false,
     "autoMarkRead": false,
     "pauseLog": true,
